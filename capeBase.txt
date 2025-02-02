@@ -1,2 +1,3 @@
-YoungDaxxs:starcape
-daxxhack.fun:starcape
+YoungDaxxs:dx
+Protected:dx
+daxxhack.fun:dx

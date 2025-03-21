@@ -37,5 +37,3 @@
 
 ![image](assets/5.gif)
 </details>
-
-![image](https://github.com/Pan4ur/ThunderHack-Recode/assets/82473048/1e56338f-58a1-4759-8234-858878bdde3f)
